@@ -1,0 +1,66 @@
+List Size = 16, Threads = 2, error = 0, time (sec) =   0.0068, qsort_time =   0.0000
+List Size = 16, Threads = 4, error = 0, time (sec) =   0.0064, qsort_time =   0.0000
+List Size = 16, Threads = 8, error = 0, time (sec) =   0.0060, qsort_time =   0.0000
+List Size = 1048576, Threads = 16, error = 0, time (sec) =   0.0281, qsort_time =   0.1718
+List Size = 16777216, Threads = 256, error = 0, time (sec) =   0.6992, qsort_time =   3.4767
+      
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+      
+List Size = 4096, Threads = 1, error = 0, time (sec) =   0.0077, qsort_time =   0.0010
+List Size = 4096, Threads = 2, error = 0, time (sec) =   0.0072, qsort_time =   0.0010
+List Size = 4096, Threads = 4, error = 0, time (sec) =   0.0061, qsort_time =   0.0007
+List Size = 4096, Threads = 16, error = 0, time (sec) =   0.0160, qsort_time =   0.0007
+List Size = 4096, Threads = 64, error = 0, time (sec) =   0.0380, qsort_time =   0.0004
+List Size = 4096, Threads = 256, error = 0, time (sec) =   0.1547, qsort_time =   0.0004
+List Size = 4096, Threads = 1024, error = 0, time (sec) =   8.5961, qsort_time =   0.0004
+      
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+      
+List Size = 1048576, Threads = 1, error = 0, time (sec) =   0.1846, qsort_time =   0.1717
+List Size = 1048576, Threads = 2, error = 0, time (sec) =   0.1003, qsort_time =   0.1711
+List Size = 1048576, Threads = 4, error = 0, time (sec) =   0.0572, qsort_time =   0.1720
+List Size = 1048576, Threads = 16, error = 0, time (sec) =   0.0273, qsort_time =   0.1707
+List Size = 1048576, Threads = 64, error = 0, time (sec) =   0.0291, qsort_time =   0.1723
+List Size = 1048576, Threads = 256, error = 0, time (sec) =   0.3519, qsort_time =   0.2622
+List Size = 1048576, Threads = 1024, error = 0, time (sec) =   8.7011, qsort_time =   0.2256
+      
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+      
+List Size = 268435456, Threads = 1, error = 0, time (sec) =  62.5417, qsort_time =  62.4880
+List Size = 268435456, Threads = 2, error = 0, time (sec) =  31.8405, qsort_time =  62.5202
+List Size = 268435456, Threads = 4, error = 0, time (sec) =  16.0605, qsort_time =  62.6563
+List Size = 268435456, Threads = 16, error = 0, time (sec) =   4.1302, qsort_time =  62.6372
+List Size = 268435456, Threads = 64, error = 0, time (sec) =   2.0907, qsort_time =  62.6530
+List Size = 268435456, Threads = 256, error = 0, time (sec) =   2.6074, qsort_time =  63.2016
+List Size = 268435456, Threads = 1024, error = 0, time (sec) =   4.6621, qsort_time =  62.8635
+      
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+      
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.1354, qsort_time =  62.9506
+OMP_PROC_BIND
+OMP_PLACES
+List Size = 268435456, Threads = 32, error = 0, time (sec) =  66.4110, qsort_time =  63.2341
+OMP_PROC_BIND
+OMP_PLACES
+List Size = 268435456, Threads = 32, error = 0, time (sec) =  66.0739, qsort_time =  62.8416
+OMP_PROC_BIND
+OMP_PLACES
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   3.9601, qsort_time =  62.6805
+OMP_PROC_BIND
+OMP_PLACES
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.1308, qsort_time =  63.0451
+OMP_PROC_BIND
+OMP_PLACES
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.1305, qsort_time =  63.0183
+OMP_PROC_BIND
+OMP_PLACES
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.1528, qsort_time =  62.5315
+OMP_PROC_BIND
+OMP_PLACES
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.1699, qsort_time =  62.6303
+OMP_PROC_BIND
+OMP_PLACES
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.1743, qsort_time =  62.9999
+OMP_PROC_BIND
+OMP_PLACES
+List Size = 268435456, Threads = 32, error = 0, time (sec) =   2.1518, qsort_time =  62.5315

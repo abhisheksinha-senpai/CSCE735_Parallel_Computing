@@ -1,0 +1,32 @@
+List Size ,4096, Threads ,1, error ,0, time (sec) ,0.0021, qsort_time ,0.001,Speedup,1,Efficiency,1
+List Size ,4096, Threads ,2, error ,0, time (sec) ,0.0014, qsort_time ,0.0005,Speedup,1.5,Efficiency,0.75
+List Size ,4096, Threads ,4, error ,0, time (sec) ,0.002, qsort_time ,0.001,Speedup,1.05,Efficiency,0.2625
+List Size ,4096, Threads ,16, error ,0, time (sec) ,0.0037, qsort_time ,0.0007,Speedup,0.567567567567568,Efficiency,0.035472972972973
+List Size ,4096, Threads ,64, error ,0, time (sec) ,0.0085, qsort_time ,0.001,Speedup,0.247058823529412,Efficiency,0.00386029411764706
+List Size ,4096, Threads ,256, error ,0, time (sec) ,0.0422, qsort_time ,0.0006,Speedup,0.0497630331753554,Efficiency,0.000194386848341232
+List Size ,4096, Threads ,1024, error ,0, time (sec) ,0.1878, qsort_time ,0.0006,Speedup,0.0111821086261981,Efficiency,1.09200279552716E-05
+List Size ,1048576, Threads ,1, error ,0, time (sec) ,0.1772, qsort_time ,0.1748,Speedup,1,Efficiency,1
+List Size ,1048576, Threads ,2, error ,0, time (sec) ,0.09, qsort_time ,0.173,Speedup,1.96888888888889,Efficiency,0.984444444444444
+List Size ,1048576, Threads ,4, error ,0, time (sec) ,0.0531, qsort_time ,0.1752,Speedup,3.33709981167608,Efficiency,0.834274952919021
+List Size ,1048576, Threads ,16, error ,0, time (sec) ,0.022, qsort_time ,0.178,Speedup,8.05454545454546,Efficiency,0.503409090909091
+List Size ,1048576, Threads ,64, error ,0, time (sec) ,0.0219, qsort_time ,0.1743,Speedup,8.09132420091324,Efficiency,0.126426940639269
+List Size ,1048576, Threads ,256, error ,0, time (sec) ,0.0605, qsort_time ,0.1724,Speedup,2.92892561983471,Efficiency,0.0114411157024793
+List Size ,1048576, Threads ,1024, error ,0, time (sec) ,0.2097, qsort_time ,0.1718,Speedup,0.845016690510253,Efficiency,0.000825211611826419
+List Size ,268435456, Threads ,1, error ,0, time (sec) ,63.0536, qsort_time ,62.6226,Speedup,1,Efficiency,1
+List Size ,268435456, Threads ,2, error ,0, time (sec) ,31.9707, qsort_time ,62.5856,Speedup,1.97223082384809,Efficiency,0.986115411924043
+List Size ,268435456, Threads ,4, error ,0, time (sec) ,16.2081, qsort_time ,62.555,Speedup,3.89025240466187,Efficiency,0.972563101165467
+List Size ,268435456, Threads ,16, error ,0, time (sec) ,4.2148, qsort_time ,62.5659,Speedup,14.9600455537629,Efficiency,0.935002847110183
+List Size ,268435456, Threads ,64, error ,0, time (sec) ,1.8405, qsort_time ,62.5531,Speedup,34.2589513719098,Efficiency,0.535296115186091
+List Size ,268435456, Threads ,256, error ,0, time (sec) ,1.841, qsort_time ,62.5433,Speedup,34.2496469310158,Efficiency,0.13378768332428
+List Size ,268435456, Threads ,1024, error ,0, time (sec) ,2.5459, qsort_time ,63.0577,Speedup,24.766722966338,Efficiency,0.0241862528968145
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+List Size ,268435456, Threads ,128, error ,0, time (sec) ,1.8411, qsort_time ,63.0269,,,,
+List Size ,268435456, Threads ,8, error ,0, time (sec) ,8.2585, qsort_time ,62.6867,,,,
+List Size ,268435456, Threads ,32, error ,0, time (sec) ,2.2255, qsort_time ,62.5954,,,,

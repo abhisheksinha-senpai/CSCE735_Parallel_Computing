@@ -1,0 +1,2 @@
+Processes = 64, n-tasks=16
+n = 10000000000, p = 64, pi = 3.1415926535897745, relative error = 5.94e-15, time (sec) =   1.2142
